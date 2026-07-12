@@ -17,7 +17,14 @@ tmp_excel/
 *.parquet
 *.delta
 *.csv
+*.xlsx
+*.xls
 !data_samples/*.csv
+
+# Local data directories for forecasting models
+*부두/
+SCFI지수/
+월별 환적비/
 
 *.pbix
 *.bak
