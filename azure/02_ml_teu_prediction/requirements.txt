@@ -1,0 +1,9 @@
+pandas
+numpy
+xgboost
+scikit-learn
+openpyxl
+lxml
+xlrd
+koreanize-matplotlib
+mlflow
