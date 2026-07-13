@@ -1,0 +1,15 @@
+pyspark==3.5.3
+delta-spark==3.3.2
+pandas
+openpyxl
+xlrd
+mlflow
+scikit-learn
+xgboost
+duckdb
+streamlit
+python-dotenv
+psycopg2-binary
+sqlalchemy
+shap
+matplotlib
