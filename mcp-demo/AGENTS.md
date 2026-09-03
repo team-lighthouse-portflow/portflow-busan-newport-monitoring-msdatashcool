@@ -1,5 +1,3 @@
-AGENTS.md
-
 ## Project
 
 This project is a portfolio demo for a Busan New Port berth schedule monitoring system.
